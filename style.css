@@ -1,0 +1,354 @@
+*{
+    margin:0;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.my-head{
+    background-image: url('images/donation7.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.home{
+    width: 826px;
+    height: 320px;
+    padding: 182px 307px 160px 307px;
+    text-align: center;
+}
+.home1{
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+}
+.home2{
+    font-weight: 400;
+    font-size: 18px;
+    padding: 20px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.btn-primary{
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 16px 20px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    margin-top: 30px;
+    font-family: "Inter", sans-serif;
+}
+.DONATE-TODAY-MAIN{
+     text-align: center;
+     margin: 137px;
+     color: #121212;
+}
+.home3{
+      font-weight: 700;
+      font-size: 45px;
+      color: #121212;
+      margin-bottom: 20px;
+      font-family: "Inter", sans-serif;
+}
+.home4{
+       font-weight: 400;
+       font-size: 18px;
+       margin-bottom: 93px;
+       font-family: "Poppins", sans-serif;
+}
+.first-donate{
+    margin-left: 200px;
+}
+.Donate-Money{
+    display: flex;
+    list-style: none;
+}
+.one{
+    font-weight: 700;
+    font-size: 30px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 22px;
+    padding: 50px 24px 50px 24px;
+    color: #707070;
+    font-family: "Inter", sans-serif;
+}
+.two{
+    border: 2px solid #FF5959;
+    font-weight: 700;
+    font-size: 30px;
+    background-color: #ffeeee;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 22px;
+    padding: 50px 24px 50px 24px;
+    color: #707070;
+    font-family: "Inter", sans-serif;
+ }
+.mouse:hover{
+  /*  background-color:#FF5959 ;*/
+    border: 2px solid #ffeeee;
+}
+.taka{
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        color: #B3B3B3;
+        margin-bottom: 9.5px;
+        font-family: "Poppins", sans-serif;
+}
+.hr{
+    margin: 10px;
+    width: 765px;
+    margin-left: 270px;
+    margin-right: 280px;
+    color: #DADADA;
+}
+.btn{
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 16px 20px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    margin-top: 30px;
+    font-family: "Inter", sans-serif;
+}
+.plan{
+    text-align: center;
+    padding: 50px;
+}
+.home5{
+      font-weight: 700;
+      font-size: 45px;
+      margin-bottom: 20px;
+      color: #121212;
+      font-family: "Inter", sans-serif;
+}
+.home6{
+      font-weight: 400;
+      font-size: 18px;
+      color: #707070;
+      margin-bottom: 50px;
+      font-family: "Poppins", sans-serif;
+}
+.main-donate{
+    display: flex;
+    margin-left: 110px;
+}
+.food{
+    height: 270px;
+    width: 340px;
+    border-radius: 5px;
+    text-align: left;
+    padding: 30px;
+    margin: 10px;
+    margin-left: 22px;
+    background-color: #eef6f7;
+}
+.food-family{
+      font-weight: 600;
+      font-size: 24px;
+      color: #121212;
+      margin-bottom: 16px;
+      margin-top: 20px;
+      font-family: "Poppins", sans-serif;
+}
+.pp{
+      font-weight: 400;
+      font-size: 16px;
+      color: #707070;
+      font-family: "Poppins", sans-serif;
+}
+.shelter{
+    height: 270px;
+    width: 340px;
+    border-radius: 5px;
+    text-align: left;
+    padding: 30px;
+    margin:  10px;
+    margin-left: 22px;
+    background-color: #ffefef;
+}
+.shelter-family{
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+    margin-bottom: 16px;
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.ppp{
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 16px;
+    font-family: "Poppins", sans-serif;
+}
+.education{
+    height: 270px;
+    width: 340px;
+    border-radius: 5px;
+    text-align: left;
+    padding: 30px;
+    margin: 10px;
+    background-color: #FFF4d6;
+    margin-left: 22px;
+}
+.education-child{
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+    margin-bottom: 16px;  
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.pppp{
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    font-family: "Poppins", sans-serif;
+}
+.depend{
+    display: flex; 
+}
+.live{
+    margin-top: 50px;
+}
+.their-live{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 182px 83px 20px 157px;
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+}
+.para{
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 157px;
+    margin-right: 83px;
+    color: #707070;
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.btn-to{
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    padding: 16px 20px;
+    margin-top: 30px;
+    margin-left: 156px;
+    font-family: "Inter", sans-serif;
+}
+.donation11{
+   border-radius: 5px;
+   height: 477px;
+   width: 456px;
+   display: block;
+   object-fit: cover;
+   margin-top: 130px;
+   margin-right: 252px;
+   padding: 33px 65px 82px;
+}
+.donation1{
+   margin-top: 151px;
+   margin-left: 156px;
+}
+.need{
+   margin: 152px 252px 181px 94px;
+}
+.need-us{
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 20px;
+    font-family: "Inter", sans-serif;
+}
+.paraa{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.btn-too{
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    padding: 16px 20px;
+    margin-top: 30px;
+    font-family: "Inter", sans-serif;
+}
+.get{
+    text-align: center;
+    margin-top: 130px;
+    margin: 20px 475px 50px 475px;
+}
+.my-up{
+    font-weight: 700;
+    font-size: 45px;
+    font-family: "Inter", sans-serif;
+}
+.para-2{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.be{
+    background-color: #fff4d6;
+    margin: 0px 415px 130px 415px;
+    padding: 76px 245px 76px 189px;
+}
+.depend{
+    display: flex;
+}
+.email{
+    padding: 14px 18px 14px 17px;
+    background-color: #d9d9d9;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+}
+.btn-sub{
+    background-color: #ff5959;
+    color: white;
+    padding: 14px 42px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: "Roboto", sans-serif;
+}
+.footer{
+    background-color: #0b0d17;
+}
+.humble{
+    font-weight: 400;
+    font-size: 35px;
+    color: #ff5959;
+    text-align: center;
+    padding-top: 43px;
+    margin-bottom: 48px;
+    font-family: "Lobster", sans-serif;
+}
+.im-gonna{
+    color: #8c8e95;
+    text-align: center;
+    padding-bottom: 42px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Manrope", sans-serif;
+}
